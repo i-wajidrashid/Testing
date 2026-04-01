@@ -1,3 +1,0 @@
-This is a branch.
-<br>
-This is a new feature (Button).
